@@ -1,5 +1,6 @@
 application:
   globalName: spring cloud
+  name: name to be overrided
 
 eureka:
   client:
