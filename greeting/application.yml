@@ -1,6 +1,5 @@
-application:
-  globalName: spring cloud
-  name: test
+foo:
+  bar: test
 
 eureka:
   client:
